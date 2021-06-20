@@ -1,2 +1,2 @@
-# ZuZeigen
-Here are some Projects just to show of
+# zuZeigenJava
+Here are a few Java Projects i found
